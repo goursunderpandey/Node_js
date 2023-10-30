@@ -1,0 +1,45 @@
+work flow of assignment 
+my-task-manager-app/
+  ├── controllers/
+  │     ├── userController.js
+  │     ├── taskController.js
+  │
+  ├
+  ├── models/
+  │     ├── Userschema.js
+  │     ├── TaskSchema.js
+  │
+  │
+  ├── app.js
+  ├── config.js
+  ├── package.json
+
+
+Api endpoint for Register is 
+
+1> "http://localhost:8000/register";
+
+Api endpoint for login 
+
+2> "http://localhost:8000/login" ;
+
+Api endpoint for Create TaskSchema
+
+# "http://localhost:8000/"
+
+Api endpoint for Read TaskSchema
+
+ #  "http://localhost:8000/:taskId"
+
+
+ Api endpoint for update TaskSchema
+
+ "http://localhost:8000/:taskId"
+
+
+Api endpoint for Delete TaskSchema
+
+"http://localhost:8000/:taskId"
+
+
+ 
